@@ -8,11 +8,11 @@ export default function Home() {
         {/* Game header */}
         <div className="w-full flex items-center justify-center mb-2 md:mb-4">
           <div className="flex items-center gap-4 px-6 py-2 rounded-full shadow-lg" style={{ background: 'transparent' }}>
-            <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer">
+            <a href="https://x.com/HyperTankGame?t=tgd-csUlA2aBv5i_PnNOmg&s=09" target="_blank" rel="noopener noreferrer">
               <img src="/twitterlogo.png" alt="Twitter" className="w-8 h-8 md:w-10 md:h-10 object-contain rounded-full border-2 border-white" style={{ marginRight: '0.5rem' }} />
             </a>
             <h1 className="text-2xl md:text-4xl font-bold text-white text-center tracking-wider">HYPER TANKS!</h1>
-            <a href="https://telegram.org/" target="_blank" rel="noopener noreferrer">
+            <a href="https://t.me/hyper_tank" target="_blank" rel="noopener noreferrer">
               <img src="/tglogo.png" alt="Telegram" className="w-8 h-8 md:w-10 md:h-10 object-contain rounded-full border-2 border-white" style={{ marginLeft: '0.5rem' }} />
             </a>
           </div>
